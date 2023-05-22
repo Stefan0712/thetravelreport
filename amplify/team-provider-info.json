@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-thetravelreport-dev-30105-authRole",
+      "UnauthRoleArn": "arn:aws:iam::442134513623:role/amplify-thetravelreport-dev-30105-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::442134513623:role/amplify-thetravelreport-dev-30105-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-thetravelreport-dev-30105-deployment",
+      "UnauthRoleName": "amplify-thetravelreport-dev-30105-unauthRole",
+      "StackName": "amplify-thetravelreport-dev-30105",
+      "StackId": "arn:aws:cloudformation:eu-central-1:442134513623:stack/amplify-thetravelreport-dev-30105/bf54a710-f833-11ed-9308-0a9687b1e8f4",
+      "AmplifyAppId": "d3ppuzwfku6caj"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3ppuzwfku6caj",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
